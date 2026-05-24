@@ -19,7 +19,6 @@ services:
   db:
     image: mysql:5.7
     container_name: wordpress_db
-    restart: always
     environment:
       MYSQL_DATABASE: wordpress
       MYSQL_USER: wordpress
@@ -31,3 +30,4 @@ services:
 volumes:
   wordpress_data:
   db_data:
+

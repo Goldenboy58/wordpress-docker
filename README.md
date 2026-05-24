@@ -14,3 +14,6 @@ This repository contains a Docker Compose configuration to run **WordPress** wit
    git clone https://github.com/Goldenboy58/wordpress-docker.git
    cd wordpress-docker
 
+git add README.md
+git commit -m "Update README with full documentation"
+git push

@@ -1,3 +1,15 @@
 # Ignore database and WordPress runtime data
 db_data/
 wordpress_data/
+# Ignore database and WordPress runtime data
+db_data/
+wordpress_data/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db

@@ -33,3 +33,8 @@ Each service has its own `docker-compose.yml` file, and both are connected throu
 ---
 
 ## 📂 Project Structure
+# WordPress + MySQL with Docker Compose
+
+## 🚀 Quickstart
+```bash
+docker-compose up -d

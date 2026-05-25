@@ -17,3 +17,19 @@ This repository contains a Docker Compose configuration to run **WordPress** wit
 git add README.md
 git commit -m "Update README with full documentation"
 git push
+# WordPress + MySQL with Docker Compose
+
+This repository demonstrates how to run **WordPress** with a **MySQL database** using Docker Compose.  
+Each service has its own `docker-compose.yml` file, and both are connected through a shared Docker network.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Docker Desktop](https://docs.docker.com/get-docker/) with WSL 2 integration enabled
+- [Docker Compose](https://docs.docker.com/compose/)
+
+---
+
+## 📂 Project Structure
